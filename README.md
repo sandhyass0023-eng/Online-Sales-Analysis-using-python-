@@ -38,53 +38,80 @@ Country – Country of the customer
 
 **🎯 Objectives**
 
-Analyze overall sales performance
-Identify top-selling products and categories
-Understand customer purchasing behavior
-Evaluate payment method preferences
-Analyze delivery performance and customer satisfaction
-Discover regional sales trends
+- Analyze overall sales performance
+
+- Identify top-selling products and categories
+
+- Understand customer purchasing behavior
+
+- Evaluate payment method preferences
+
+- Analyze delivery performance and customer satisfaction
+
+- Discover regional sales trends
 
 **🛠️ Tools & Technologies**
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Seaborn
 
 **🔍 Key Analysis Performed**
 
-Data Cleaning (handling missing values, duplicates)
-Feature Engineering (calculating Total Sales)
-Exploratory Data Analysis (EDA)
-Sales trend analysis over time
-Product and category performance analysis
-Customer segmentation (repeat vs new)
-Payment method analysis
-Delivery and review analysis
-Regional (State/Country) analysis
+- Data Cleaning (handling missing values, duplicates)
+
+- Feature Engineering (calculating Total Sales)
+
+- Exploratory Data Analysis (EDA)
+
+- Sales trend analysis over time
+
+- Product and category performance analysis
+
+- Customer segmentation (repeat vs new)
+
+- Payment method analysis
+
+- Delivery and review analysis
+
+- Regional (State/Country) analysis
 
 **📈 Key Insights**
 
-A few product categories generate the majority of revenue
-Repeat customers contribute significantly to total sales
-Digital payments are more popular than Cash on Delivery
-Delivery delays negatively impact customer ratings
-Certain regions have higher sales and growth potential
+- A few product categories generate the majority of revenue
+  
+- Repeat customers contribute significantly to total sales
+  
+- Digital payments are more popular than Cash on Delivery
+  
+- Delivery delays negatively impact customer ratings
+  
+- Certain regions have higher sales and growth potential
 
 **📊 Project Outcome**
 
 This project helps in:
 
-Improving business decision-making
-Optimizing product and pricing strategies
-Enhancing customer satisfaction
-Identifying growth opportunities
+- Improving business decision-making
+
+- Optimizing product and pricing strategies
+
+- Enhancing customer satisfaction
+
+- Identifying growth opportunities
 
 **🚀 Future Improvements**
 
-Build a machine learning model for sales prediction
-Customer segmentation using clustering
-Recommendation system for products
-Real-time dashboard integration
+- Build a machine learning model for sales prediction
+
+- Customer segmentation using clustering
+
+- Recommendation system for products
+
+- Real-time dashboard integration
