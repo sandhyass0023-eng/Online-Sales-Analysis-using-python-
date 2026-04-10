@@ -9,18 +9,31 @@ This project focuses on analyzing an online sales dataset to extract meaningful 
 The dataset contains the following columns:
 
 Order_ID – Unique identifier for each order
+
 Date – Date of the transaction
+
 Customer_ID – Unique ID for each customer
+
 Product_Category – Category of the product
+
 Product_Name – Name of the product
+
 Quantity – Number of items purchased
+
 Unit_Price_INR – Price per unit
+
 Total_Sales_INR – Total sales value (Quantity × Unit Price)
+
 Payment_Method – Mode of payment (UPI, Card, COD, etc.)
+
 Delivery_Status – Status of order delivery
+
 Review_Rating – Customer rating (1–5)
+
 Review_Text – Customer feedback
+
 State – State of the customer
+
 Country – Country of the customer
 
 **🎯 Objectives**
